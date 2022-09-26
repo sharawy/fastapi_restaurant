@@ -1,0 +1,15 @@
+node_modules
+Dockerfile
+.dockerignore
+.editorconfig
+.gitignore
+.idea
+yarn-error.log
+Jenkinsfile*
+**/*.pyc
+.DS_Store
+.git
+media
+dist
+target
+*.sqlite3
